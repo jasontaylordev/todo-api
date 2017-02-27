@@ -1,0 +1,8 @@
+c:\Code\CF\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.deps.json
+c:\Code\CF\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.runtimeconfig.json
+c:\Code\CF\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.runtimeconfig.dev.json
+c:\Code\CF\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.dll
+c:\Code\CF\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.pdb
+c:\Code\CF\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.AssemblyInfo.cs
+c:\Code\CF\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.dll
+c:\Code\CF\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.pdb
